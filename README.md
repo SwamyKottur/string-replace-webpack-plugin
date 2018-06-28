@@ -3,7 +3,7 @@
 ## Usage example
 
 ``` javascript
-var StringReplacePlugin = require("string-replace-webpack-plugin");
+var StringReplacePlugin = require("string-replace-webpack4-plugin");
 module.exports = {
    module: {
       loaders: [
